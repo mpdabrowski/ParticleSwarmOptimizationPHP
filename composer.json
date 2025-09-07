@@ -1,0 +1,19 @@
+{
+    "name": "michal/particle-swarm-optimization-php",
+    "description": "Simple particle swarm optimization algorithm implementation in PHP",
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\ParticleSwarmOptimizationPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Dąbrowski",
+            "email": "mdabrowski.sci@gmail.com"
+        }
+    ]
+}
